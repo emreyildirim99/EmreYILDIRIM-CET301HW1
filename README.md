@@ -1,6 +1,8 @@
-# emre_yildirim_hw1
+# Emre Yıldırım - CET301 HW1
 
 Emre YILDIRIM CET301 HW1
+
+![EmreYıldırım_HW1](https://i.hizliresim.com/aOPSQH.png)
 
 ## Getting Started
 
