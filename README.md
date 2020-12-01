@@ -2,7 +2,7 @@
 
 Emre YILDIRIM CET301 HW1
 
-![EmreYıldırım_HW1](https://i.hizliresim.com/aOPSQH.png)
+![EmreYıldırım_HW1](https://i.hizliresim.com/aOPSQH.png =412x732)
 
 ## Getting Started
 
